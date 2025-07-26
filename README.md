@@ -14,30 +14,6 @@ I'm a passionate **Data Analyst** with over **3 years of experience** transformi
 - 🔍 **Predictive Analytics & Clustering** (Regression, A/B Testing, K-Means)  
 - ☁️ **Cloud Analytics** on Microsoft Azure, AWS, and Snowflake  
 
----
-
-## 🧩 Featured Projects
-
-### 📌 Customer Segmentation Using KMeans Clustering
-Engineered RFM (Recency, Frequency, Monetary) features on 400K+ transactions. Applied K-Means and visualized 7 customer personas such as VIP, At-Risk, and Churned.
-
-### 📌 SQL Data Warehouse & ETL Pipeline
-Designed Medallion architecture (Bronze, Silver, Gold). Built ETL workflows with SCD1 updates and data quality checks using SQL and pipeline tools.
-
-### 📌 Netflix Data Engineering Pipeline on Azure
-Automated incremental ingestion using Azure Data Factory and Databricks Autoloader. Transformed and validated datasets with PySpark and Delta Live Tables.
-
----
-
-## 🛠️ Tech Stack
-
-**Languages:** Python (Pandas, NumPy, PySpark), SQL, R  
-**Visualization:** Tableau, Power BI, Excel  
-**Databases:** MySQL, PostgreSQL, SQL Server  
-**ETL & Cloud:** Azure (Data Factory, Lake, Synapse), AWS, Snowflake, dbt  
-**Tools:** GitHub, Airflow, Alteryx, Talend  
-
----
 
 ## 📫 Connect With Me
 
