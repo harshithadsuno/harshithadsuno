@@ -9,7 +9,7 @@ I'm a passionate **Data Analyst** with over **3 years of experience** transformi
 ## 🔍 What I Do
 
 - 🧠 **Data Analysis & Visualization** using Python, SQL, Tableau, and Power BI  
-- ⚙️ **ETL & Data Pipelines** with Azure Data Factory, Snowflake, Databricks and Airflow  
+- ⚙️ **ETL & Data Pipelines** with Azure Data Factory, Snowflake, Dbt and Airflow  
 - 📊 **Business Intelligence Dashboards** for decision-makers  
 - 🔍 **Predictive Analytics & Clustering** (Regression, A/B Testing, K-Means)  
 - ☁️ **Cloud Analytics** on Microsoft Azure, AWS, and Snowflake  
