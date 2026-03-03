@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harshitha Devi Sunkara
 
-### 🎯 Data Analytics Engineer | Tableau Expert | Python & SQL Enthusiast
+### 🎯 Data Engineer | Tableau Expert | Python & SQL Enthusiast
 
 I'm a passionate **Data Analyst** with over **3 years of experience** transforming raw data into clear, actionable insights. I specialize in building dashboards, automating pipelines, and applying statistical models to drive business growth and decision-making.
 
@@ -20,7 +20,7 @@ I'm a passionate **Data Analyst** with over **3 years of experience** transformi
 - 🔗 [LinkedIn](https://linkedin.com/in/harshithasunkara)  
 - 💻 [GitHub](https://github.com/harshithadsuno)  
 - 📊 [Tableau Public](https://public.tableau.com/app/profile/harshitha.d.s/vizzes)  
-- 📧 harshitha.s@mailjobtech.com  
+- 📧 harshithadsuno@gmail.com  
 
 ---
 
