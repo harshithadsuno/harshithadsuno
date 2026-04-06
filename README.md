@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Harshitha Devi Sunkara
 
-### 🎯 Data Engineer
+### 🎯 Data Analyst
 
 I'm a passionate **Data Engineer** with **4 years of experience** transforming raw data into clear, actionable insights. I specialize in building dashboards, automating pipelines, and applying statistical models to drive business growth and decision-making.
 
