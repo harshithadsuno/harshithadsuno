@@ -2,7 +2,7 @@
 
 ### 🎯 Data Analyst
 
-I'm a passionate **Data Analyst** with **4 years of experience** transforming raw data into clear, actionable insights. I specialize in building dashboards, automating pipelines, and applying statistical models to drive business growth and decision-making.
+I'm a Data Analyst with 4 years of experience in healthcare and life sciences — turning complex datasets into actionable insights across clinical research, pharma, and medical device domains
 
 ---
 
@@ -10,7 +10,8 @@ I'm a passionate **Data Analyst** with **4 years of experience** transforming ra
 
 - 🧠 **Data Analysis & Visualization** using Python, SQL, Tableau, and Power BI  
 - ⚙️ **ETL & Data Pipelines** with Azure Data Factory, Snowflake, Dbt and Airflow  
-- 📊 **Business Intelligence Dashboards** for decision-makers  
+- 📊 **Business Intelligence Dashboards** for decision-makers
+- 🗂️ **Data Governance & Quality Management** — data profiling, validation frameworks, and master data standardization in regulated               healthcare environments
 - 🔍 **Predictive Analytics & Clustering** (Regression, A/B Testing, K-Means)  
 - ☁️ **Cloud Analytics** on Microsoft Azure, AWS, and Snowflake  
 
